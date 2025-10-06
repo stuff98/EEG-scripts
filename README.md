@@ -1,8 +1,7 @@
 # Scripts EEG with FieldTrip
 
 ## Description
-This repository features a suite of scripts and functions designed for the comprehensive preprocessing, analysis, and visualization of electroencephalography (EEG) data. Built as a tool for researchers, it handles everything from data preparation to advanced time-frequency statistics.
-
+This repository features a suite of scripts and functions designed for the comprehensive preprocessing, analysis, and visualization of electroencephalography (EEG) data. Built as a tool for researchers, it handles everything from data preparation to advanced time-frequency statistics. 
 ## Key Modules and Functionality
 The code is structured into dedicated modules that cover the entire EEG processing pipeline, ensuring modularity and efficient workflow management.
 The scripts work correctly with Fieldtrip version fieldtrip-20190224 in a MATLAB v2024b version. 
@@ -23,8 +22,7 @@ The core of the project focuses on extracting temporal and spectral features, al
 Grand Averages & Topoplots (Plots_TF, Plot_CBPT): Scripts to generate plots; Grand Average, individual participants waveforms and results from CBPT, including topoplots, to clearly visualize group-level findings and statistically significant differences.
 
 ## Disclaimer 
-These scripts are provided "as is." Though great care was taken to ensure accuracy and functionality, there is no promise they are entirely error-free or perfectly suited for every scenario. Therefore, the onus is on the user to carefully examine and confirm all data and code aspects. I encourage to double-check every phase of preprocessing, statistical modeling, and final interpretation—to ensure validity. Any issue or suggestion for improvement can be report to the author. 
-
+These scripts are provided "as is." Though great care was taken to ensure accuracy and functionality, there is no promise they are entirely error-free or perfectly suited for every scenario. Therefore, the onus is on the user to carefully examine and confirm all data and code aspects. I encourage to double-check every phase of preprocessing, statistical modeling, and final interpretation—to ensure validity. Any issue or suggestion for improvement can be report to the author. Channel location files (2d and 3d) have to be created and located in the utils folder. 
 
 ## Acknowledgement
 This project is a derivative work by Raquel Lezama (raquellezama42@gmail.com) based on material from the EEG_introductory_workshop by Juan Linde-Domingo and Rodika Sokoliuk (March, 2025)
