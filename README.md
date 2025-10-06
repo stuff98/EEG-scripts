@@ -1,7 +1,7 @@
 # Scripts EEG with FieldTrip
 
 ## Description
-This repository features a suite of scripts and functions designed for the comprehensive preprocessing, analysis, and visualization of electroencephalography (EEG) data. Built as a powerful tool for researchers, it handles everything from data preparation to advanced time-frequency statistics.
+This repository features a suite of scripts and functions designed for the comprehensive preprocessing, analysis, and visualization of electroencephalography (EEG) data. Built as a tool for researchers, it handles everything from data preparation to advanced time-frequency statistics.
 
 ## Key Modules and Functionality
 The code is structured into dedicated modules that cover the entire EEG processing pipeline, ensuring modularity and efficient workflow management.
