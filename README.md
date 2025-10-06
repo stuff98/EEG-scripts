@@ -19,8 +19,6 @@ The core of the project focuses on extracting temporal and spectral features, al
 
 **Cluster-Based Permutation Testing (CBPT) (CBPT_TF_BT_subj):** Dedicated scripts apply CBPT to T-F data, identifying statistically significant regions in the time-frequency space while correcting for multiple comparisons for between group comparisons.
 
-**Band Power Extraction:** Precisely calculates and extracts specific frequency band power metrics within defined electrode clusters and time windows.
-
 ### 3. Visualization
 Grand Averages & Topoplots (Plots_TF, Plot_CBPT): Scripts to generate plots; Grand Average, individual participants waveforms and results from CBPT, including topoplots, to clearly visualize group-level findings and statistically significant differences.
 
