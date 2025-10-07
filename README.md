@@ -5,7 +5,7 @@ This repository features a suite of scripts and functions designed for the compr
 
 ## Key Modules and Functionality
 The code is structured into dedicated modules that cover the EEG processing pipeline, ensuring modularity and efficient workflow management.
-The scripts work correctly with Fieldtrip version fieldtrip-20190224 in a MATLAB v2024b version. 
+The scripts work correctly with Fieldtrip version fieldtrip-20190224 in a MATLAB v2024b version. A specific data repository is required to be used.
 
 ### 1. Preprocessing and Study Setup
 **Main Preprocessing Script (Preprocessing_pipeline)**: Executes the essential pipeline for cleaning raw EEG data.
